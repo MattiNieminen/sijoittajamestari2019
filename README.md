@@ -11,7 +11,7 @@ Then, use the the Clojure app to transform the Yahoo CSV file into a new CSV fil
 to be used in the next step:
 
 ```bash
-TODO
+clj -m core
 ```
 
 Then run the attached Jupyter notebook (```notebook.ipynb```) step by step to
