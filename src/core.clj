@@ -5,7 +5,7 @@
 
 (def source-file-name "from-yahoo.csv")
 (def target-file-name "for-notebook.csv")
-(def day-count-for-prediction 10)
+(def day-count-for-prediction 100)
 
 (defn data-line->coll [s]
   (let [[_ open high low _ close volume] (-> s (str/split #","))]
