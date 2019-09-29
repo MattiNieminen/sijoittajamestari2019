@@ -15,4 +15,6 @@ clj -m core
 ```
 
 Then run the attached Jupyter notebook (```notebook.ipynb```) step by step to
-get the next day classification.
+get the next day classification. You can use my
+[Dockerfile](https://github.com/MattiNieminen/dockerfiles/tree/master/keras)
+to do that.
