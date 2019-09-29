@@ -1,4 +1,5 @@
 .nrepl-port
 .cpcache/
+.ipynb_checkpoints/
 from-yahoo.csv
 for-notebook.csv
