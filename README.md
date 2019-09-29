@@ -7,7 +7,7 @@ First, a CSV file from Yahoo finance is required. The CSV file should use
 ```,``` as delimiter. The headers should be Date, Open, High, Low, Close,
 Adjusted Close and Volume. The name of the CSV should be ```from-yahoo.csv```.
 
-Then, use the the Clojure app to transform the Yahoo CSV file into a new CSV file
+Then, use the the Clojure app to convert the Yahoo CSV file into a new CSV file
 to be used in the next step:
 
 ```bash
